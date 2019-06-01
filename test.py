@@ -1,4 +1,6 @@
 def a():
-  passs
+    pass
 def b():
-  pass
+    pass
+def c():
+    pass
