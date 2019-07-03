@@ -12,6 +12,9 @@ def Bubble(elist):
             return
 def hello():
     pass
+def another():
+    pass
+
 if __name__ == "__main__":
     a=[2,5,1,7,9,4,3,0,13,-4,-8,-1]
     # a=[1,2,4,5,7,8,9]
